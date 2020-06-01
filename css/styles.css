@@ -76,7 +76,7 @@ footer {
 	text-align: center;
 	padding: 60px 0 10px 0;
 }
-@media (min-width: 300px) and (max-width: 800px) {
+@media (max-width: 800px) {
 	#overall {
 		padding: 10px 10px 10px 10px;
 	}
